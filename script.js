@@ -1,31 +1,31 @@
 const questions = [
   {
-    question: "What is the capital of France?",
-    choices: ["Paris", "London", "Rome", "Berlin"],
+    question: "Which one is false?",
+    choices: ["The sky is red", "The sky is blue", "Fun toys are fun", "False"],
+    answer: 3
+  },
+  {
+    question: "What is ゑゐいワいい in the International Phonetic Alphabet?",
+    choices: ["/wø:wai:/", "/ゑəゐ1い/", "/ʋeʋi:ʋai:/", "/ʙˁ˥ʕʷɫ̚ːɴɤ̞̆̃dɮˁʲkʟ̝̊ʼʰˣː$ː/"],
+    answer: 2
+  },
+  {
+    question: "Jeff gets on a plane going at 613 miles per hour in a straight line going from Moscow, Russia to Funafuti, Tuvalu. Using this information, calculate the population of Hiroshima, Japan",
+    choices: ["1.19 million", "🛩☢️💣", "0", "1.23 million"],
     answer: 0
   },
   {
-    question: "Which planet is known as the Red Planet?",
-    choices: ["Venus", "Saturn", "Mars", "Jupiter"],
-    answer: 2
-  },
-  {
-    question: "Which language runs in a web browser?",
-    choices: ["Python", "C#", "JavaScript", "Go"],
-    answer: 2
-  },
-  {
-    question: "What is 5 × 6?",
-    choices: ["11", "30", "56", "34"],
+    question: "What is the temperature of Papyrus's spaghetti in Rankine??",
+    choices: ["Papyrus is my favorite Deltarune character and it's 68", "Papyrus isn't in Deltarune", "293", "536.67"],
     answer: 1
   },
   {
     question: "HTML stands for?",
     choices: [
       "HyperText Markup Language",
-      "HighText Machine Language",
-      "Hyperloop Markup Language",
-      "Hyperlink Text Mark Language"
+      "HyperTxt Markup Language",
+      "HyperText Markuq Language",
+      "НуреrTехт Маrкuр Lаnguаgе"
     ],
     answer: 0
   }
