@@ -23,12 +23,43 @@ const questions = [
     question: "HTML stands for?",
     choices: [
       "HyperText Markup Language",
-      "HyperTxt Markup Language",
-      "HyperText Markuq Language",
+      "HyperTwxt Markup Language",
+      "HyperText Markup Lanquage",
       "НуреrTехт Маrкuр Lаnguаgе"
     ],
     answer: 0
-  }
+  },
+  {
+    question: "What is the closest island to Great Britain?",
+    choices: [
+      "Ireland",
+      "Britain 2 Electric Boogaloo",
+      "Afro-Eurasia",
+      "America"
+    ],
+    answer: 2
+  },
+  {
+    question: "What is a shower?",
+    choices: [
+      "A water box",
+      "An enclosure in which a person stands under a spray of water to wash.",
+      "Very important for hygeine",
+      "I have no idea"
+    ],
+    answer: 3
+  },
+  {
+    question: "How many times does the letter t appear in the word hippopotomonstrosesquippedaliophobia?",
+    choices: [
+      "1",
+      "2",
+      "6",
+      "0"
+    ],
+    answer: 1
+  },
+      
 ];
 
 let score = 200;
