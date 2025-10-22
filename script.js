@@ -77,6 +77,7 @@ const questions = [
       "English",
       "Russian"
     ],
+    answer: 1
   },
   {
     question: "What is the GDP of Luxembourg?",
@@ -86,6 +87,7 @@ const questions = [
       "2.174T",
       "23.4K"
     ],
+    answer: 0
   },
       
 ];
