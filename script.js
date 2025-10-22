@@ -53,11 +53,39 @@ const questions = [
     question: "How many times does the letter t appear in the word hippopotomonstrosesquippedaliophobia?",
     choices: [
       "1",
-      "2",
+      "3",
       "6",
       "0"
     ],
     answer: 1
+  },
+  {
+    question: "What do you get when you divide a distanceraptor by a timeraptor",
+    choices: [
+      "Velociraptor",
+      "Speedraptor",
+      "Divide by 0 error",
+      "Distanceraptor/Timeraptor (the fraction can't be simplified)"
+    ],
+    answer: 1
+  },
+  {
+    question: "ワトラングラジュイスヂスリッテンイン？",
+    choices: [
+      "Chinese",
+      "Japanese",
+      "English",
+      "Russian"
+    ],
+  },
+  {
+    question: "What is the GDP of Luxembourg?",
+    choices: [
+      "93.2B",
+      "8.288B", 
+      "2.174T",
+      "23.4K"
+    ],
   },
       
 ];
